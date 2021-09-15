@@ -1,2 +1,6 @@
 today is not wednesday, today is tuesday
+
 Hi, my name is Thinh. I just make a change!
+
+Im learning to creat a respository
+
