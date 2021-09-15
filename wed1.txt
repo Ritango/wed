@@ -1,7 +1,11 @@
+
 today is not wednesday, today is SUNDAY
+Im learning to creat a respository
+
+today is not wednesday, today is tuesday
+
 Hi, my name is Thinh. I just make a change!
-print("Hello world")
 
-
+Im learning to creat a respository
 def my_function():
   print("Hello from a function")
