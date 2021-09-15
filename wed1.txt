@@ -1,7 +1,8 @@
 
 today is not wednesday, today is SUNDAY
 Im learning to creat a respository
-today is not wednesday, today is tuesday
+(add this row)
+(deleted this row)
 Hi, my name is Thinh. I just make a change!
 Im learning to creat a respository
 def my_function():
